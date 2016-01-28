@@ -211,3 +211,7 @@ Add the subdomain hubot should connect to. If you web URL looks like
 ## Restart the bot
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if you're having issues.
+
+## Heroku kills the bot every night
+
+Yes, it's a free account. To wake him up, just hit [http://i2b-tron.herokuapp.com/](http://i2b-tron.herokuapp.com/) in your browser.
