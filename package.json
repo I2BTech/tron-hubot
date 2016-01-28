@@ -5,6 +5,7 @@
   "author": "Jorge Epuñan <jorge.epunan@i2btech.com>",
   "description": "Al servicio de I2B",
   "dependencies": {
+    "cheerio": "^0.19.0",
     "hubot": "^2.18.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
